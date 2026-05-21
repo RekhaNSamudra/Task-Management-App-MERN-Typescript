@@ -36,9 +36,13 @@ const Login = () => {
 
       navigate("/dashboard");
     } catch (error: any) {
-      toast.error(
-        error.response?.data?.message || "Login failed"
-      );
+      const message = error.response?.data?.message || "Login failed";
+
+      toast.error(message);
+
+      if (error.response?.status === 404) {
+        navigate("/register");
+      }
     } finally {
       setLoading(false);
     }
