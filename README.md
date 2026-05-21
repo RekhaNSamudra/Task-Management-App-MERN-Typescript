@@ -222,31 +222,31 @@ npm run dev
 
 ### Edit Task
 
-![Edit Task](./screenshots/Edit Tasks.png)
+![Edit Task](./screenshots/Edit%20Tasks.png)
 
 ---
 
 ### Mark Completed
 
-![Mark Completed](./screenshots/Mark completed.png)
+![Mark Completed](./screenshots/Mark%20completed.png)
 
 ---
 
 ### Pending Filter
 
-![Pending Filter](./screenshots/Pending filter.png)
+![Pending Filter](./screenshots/Pending%20filter.png)
 
 ---
 
 ### Completed Filter
 
-![Completed Filter](./screenshots/Completed filter.png)
+![Completed Filter](./screenshots/Completed%20filter.png)
 
 ---
 
 ### Delete Task
 
-![Delete Task](./screenshots/Delete task.png)
+![Delete Task](./screenshots/Delete%20task.png)
 
 ---
 
